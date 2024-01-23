@@ -1,2 +1,3 @@
 # Instrument-Differentiation-Autoencoding
-probably needs a good name
+###WIP
+Music autoencoder which attemtpts to separate audio into channels by instrument.
